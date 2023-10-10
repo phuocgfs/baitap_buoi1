@@ -1,0 +1,10 @@
+D:\C#\PhamVanPhuoc_2121110184\Buoi03_BTVN\obj\Debug\Buoi03_BTVN.csproj.AssemblyReference.cache
+D:\C#\PhamVanPhuoc_2121110184\Buoi03_BTVN\obj\Debug\Buoi03_BTVN.Form1.resources
+D:\C#\PhamVanPhuoc_2121110184\Buoi03_BTVN\obj\Debug\Buoi03_BTVN.Properties.Resources.resources
+D:\C#\PhamVanPhuoc_2121110184\Buoi03_BTVN\obj\Debug\Buoi03_BTVN.csproj.GenerateResource.cache
+D:\C#\PhamVanPhuoc_2121110184\Buoi03_BTVN\obj\Debug\Buoi03_BTVN.csproj.CoreCompileInputs.cache
+D:\C#\PhamVanPhuoc_2121110184\Buoi03_BTVN\bin\Debug\Buoi03_BTVN.exe.config
+D:\C#\PhamVanPhuoc_2121110184\Buoi03_BTVN\bin\Debug\Buoi03_BTVN.exe
+D:\C#\PhamVanPhuoc_2121110184\Buoi03_BTVN\bin\Debug\Buoi03_BTVN.pdb
+D:\C#\PhamVanPhuoc_2121110184\Buoi03_BTVN\obj\Debug\Buoi03_BTVN.exe
+D:\C#\PhamVanPhuoc_2121110184\Buoi03_BTVN\obj\Debug\Buoi03_BTVN.pdb
