@@ -1,0 +1,15 @@
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\obj\Debug\Buoi04_5.csproj.AssemblyReference.cache
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\obj\Debug\Buoi04_5.Form1.resources
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\obj\Debug\Buoi04_5.Properties.Resources.resources
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\obj\Debug\Buoi04_5.csproj.GenerateResource.cache
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\obj\Debug\Buoi04_5.csproj.CoreCompileInputs.cache
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\bin\Debug\Buoi04_5.exe.config
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\bin\Debug\Buoi04_5.exe
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\bin\Debug\Buoi04_5.pdb
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\bin\Debug\Interop.WMPLib.dll
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\obj\Debug\Interop.WMPLib.dll
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\obj\Debug\Buoi04_5.csproj.ResolveComReference.cache
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\obj\Debug\Buoi04_5.exe
+D:\C#\PhamVanPhuoc_2121110184\Buoi04_5\obj\Debug\Buoi04_5.pdb
